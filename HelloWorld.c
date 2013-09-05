@@ -2,6 +2,6 @@
 #include <stdint.h>
 
 int32_t main(void) {
-    printf("Hello World!\n");
+    printf("Hello I'm a phantom!\n");
     return 1;
-}
+    }
